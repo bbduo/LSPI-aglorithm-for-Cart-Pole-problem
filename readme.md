@@ -1,4 +1,11 @@
-#Description of the  file structure
+#CSDS 496 final project: The comparision of LSPI and Deep Q learning algorithm on CartPole-v0 task.
+
+***
+##Demo for LSPI algorithm on CartPole-v0 task
+![](https://github.com/bbduo/LSPI-aglorithm-for-Cart-Pole-problem/blob/main/img/LSPI_demo.gif)
+##Demo for DQN algorithm on CartPole-v0 task
+![](https://github.com/bbduo/LSPI-aglorithm-for-Cart-Pole-problem/blob/main/img/DQN_demo.gif)
+
 **basisFunctions.py**  -- generate the basis function
 
 **DQN_main.py** -- the main code of DQN(the extension of this project)
